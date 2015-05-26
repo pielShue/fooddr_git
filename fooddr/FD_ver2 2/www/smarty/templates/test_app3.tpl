@@ -26,12 +26,7 @@
         <script src="http://view.jqueryui.com/master/ui/datepicker.js"></script>
         <link rel="stylesheet" src="{$rootUri}/mo_js/jquery-ui.css"> 
         <script src="{$rootUri}/mo_js/jquery-ui.js"></script>  
-<!--  
-        <link href="{$rootUri}/css/font-awesome.css" rel="stylesheet" /> 
-        <script src="{$rootUri}/js/knockout-2.2.1.js"></script>
-        <script src="{$rootUri}/js/globalize.min.js"></script>
 
--->     
         <script src="{$rootUri}/js/bootstrap-typeahead.js"></script>
         <script src="../js/horizontal/modernizr.js"></script>
 
