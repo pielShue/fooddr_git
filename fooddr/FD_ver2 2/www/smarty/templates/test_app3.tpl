@@ -610,9 +610,6 @@ $('.fdpop_close4').click(function(){
 </script>
 <!-- 식품 재료리스트-->
 <!-- 식품 재료리스트-->
-<!-- 식품 재료리스트-->
-<!-- 식품 재료리스트-->
-<!-- 식품 재료리스트-->
 <section data-role="page" class="jqm-demos" id="fd_recipe_detail">
 
 	   		<div data-role="header" class="fdb_header04">  
