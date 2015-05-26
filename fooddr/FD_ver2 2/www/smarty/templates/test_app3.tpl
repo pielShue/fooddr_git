@@ -63,9 +63,7 @@
 <body style=" background-image:url({$rootUri}/imageA/m_img01.png)"> 
 
 <!-- 식단 목록 -->
-<!-- 식단 목록 -->
-<!-- 식단 목록 -->
-<!-- 식단 목록 -->
+
 <!-- 식단 목록 -->
 
 <section data-role="page" class="jqm-demos">
